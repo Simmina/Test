@@ -1,2 +1,2 @@
 # Test
-ami plac iepuroi uriasi 
+âmi plac iepuroi uriași 
